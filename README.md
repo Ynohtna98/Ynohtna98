@@ -1,6 +1,8 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-![Space GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJ6eHZqZzZ1Z2N6eGJ6eHZqZzZ1Z2N6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif)
+![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V5dWY4dWJjY2VjZ3B4Y2V6eGJ6eHZqZzZ1Z2N6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+
+
 
 <!--
 **Ynohtna98/Ynohtna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
