@@ -1,41 +1,6 @@
-### Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-<!-- Cabeçalhos -->
-
-
-*italico* ou _italico_
-
-**Negrito** ou __Negrito__
-
-___negrito e italico___
-
-- Lista 1
-- Lista 2
-  - Sublista 
-
-1. Lista 1
-2. Lista 2
-   1. Sublista
-
-[Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg)
-
-![Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg)
-
-`system.out.println();`
-
-```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); ```
-
-
-> [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg)
-
-| [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) |
-| ----------- | ----------- |
-| texto 1     | texto 2     |
-| texto 3     | texto 4     |
- 
- - [X] [Tarefa 1](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) 
- - [ ] Tarefa 2 
-
+![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V5dWY4dWJjY2VjZ3B4Y2V6eGJ6eHZqZzZ1Z2N6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 
 <!--
 **Ynohtna98/Ynohtna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
