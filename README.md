@@ -16,8 +16,9 @@
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/anthony-alyson-do-nascimento-lima-9bb342363/)
 ---------
 
-###💻 Tecnologias utilizadas:
-![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+💻 ###Minhas Tecnologias:
+---------
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
 
 
 
