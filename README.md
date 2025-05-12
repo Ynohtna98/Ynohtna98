@@ -34,7 +34,7 @@ ___negrito e italico___
 | texto 3     | texto 4     |
  
  - [X] Tarefa 1 <br>
- - [ ] Tarefa 2
+ - [ ] Tarefa 2 <strong>
 
 
 <!--
