@@ -4,8 +4,7 @@
 ---------
 
 
- 💬 Olá, me chamo Anthony Alyson!
- Sou estudante de Front-end, licenciado em Gestão da Tecnologia da Informação.
+ ### Olá, me chamo Anthony Alyson! Sou estudante de Front-end, licenciado em Gestão da Tecnologia da Informação. 💬
 ---------
 
 📨 Entre em Contato:
