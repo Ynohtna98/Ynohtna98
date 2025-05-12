@@ -14,6 +14,10 @@
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Thonylya?text=)
 [![](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alysonlima1998@gmail.com)
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/anthony-alyson-do-nascimento-lima-9bb342363/)
+---------
+
+###💻 Tecnologias utilizadas:
+![](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 
 
 
