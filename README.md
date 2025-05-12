@@ -33,7 +33,7 @@ ___negrito e italico___
 | texto 1     | texto 2     |
 | texto 3     | texto 4     |
  
- - [X] Tarefa 1 
+ - [X] [Tarefa 1](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) 
  - [ ] Tarefa 2 
 
 
