@@ -31,7 +31,8 @@
 | React | A Cursar |
 | Angular | A Cursar |
 | Node.js | A Cursar |
-          
+---------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameYnohtna98=anuraghazra&show_icons=true&theme=tokyonight)
           
           
 
