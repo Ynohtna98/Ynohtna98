@@ -28,7 +28,7 @@ ___negrito e italico___
 
 > Texto da Citação
 
-| Cabeçalho 1 | Cabeçalho 2 |
+| [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) |
 | ----------- | ----------- |
 
 <!--
