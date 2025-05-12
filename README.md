@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo! 👋
 
-![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V5dWY4dWJjY2VjZ3B4Y2V6eGJ6eHZqZzZ1Z2N6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)<center>
+![Coding Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V5dWY4dWJjY2VjZ3B4Y2V6eGJ6eHZqZzZ1Z2N6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
 ---------
 
 
@@ -19,8 +19,10 @@
 ### Minhas Tecnologias 🖥:
 ---------
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px">
-          
-          
+--------
+| Cursos | Certificados |
+| ------ | ------------ |
+|Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
           
           
           
