@@ -26,7 +26,7 @@ ___negrito e italico___
 ```system.out.println(); system.out.println(); system.out.println(); system.out.println(); system.out.println(); ```
 
 
-> Texto da Citação
+> [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg)
 
 | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) |
 | ----------- | ----------- |
