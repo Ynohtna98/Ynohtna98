@@ -32,7 +32,7 @@
 | Angular | A Cursar |
 | Node.js | A Cursar |
 ---------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ynohtna98a&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ynohtna98&show_icons=true&theme=tokyonight)
           
           
 
