@@ -24,6 +24,13 @@
 | ------ | ------------ |
 |Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
 | Git e GitHub | Cursando |
+| HTML 5 | A Cursar |
+| CSS3 | A Cursar |
+| JavaScript | A Cursar |
+| TypeScript | A Cursar |
+| React | A Cursar |
+| Angular | A Cursar |
+| Node.js | A Cursar |
           
           
           
