@@ -7,7 +7,7 @@
  🐱‍💻 Olá, me chamo Anthony Alyson!
  Sou estudante de Front-end, licenciado em Gestão da Tecnologia da Informação.
 
- [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/anthony-alyson-do-nascimento-lima-9bb342363/)
+💬 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/anthony-alyson-do-nascimento-lima-9bb342363/)
 
 <!--
 **Ynohtna98/Ynohtna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
