@@ -31,7 +31,7 @@ ___negrito e italico___
 | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) | [Texto da imagem](https://i1.sndcdn.com/artworks-AV3yT135aFYucjX4-O771hA-t1080x1080.jpg) |
 | ----------- | ----------- |
 | texto 1     | texto 2     |
-| ----------- | ----------- |
+| texto 3     | texto 4     |
  
 <!--
 **Ynohtna98/Ynohtna98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
