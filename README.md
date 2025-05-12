@@ -23,6 +23,7 @@
 | Cursos | Certificados |
 | ------ | ------------ |
 |Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
+| Git e GitHub | [Cursando] |
           
           
           
