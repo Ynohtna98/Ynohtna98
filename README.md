@@ -33,8 +33,8 @@ ___negrito e italico___
 | texto 1     | texto 2     |
 | texto 3     | texto 4     |
  
- - [X] Tarefa 1 <br>
- - [ ] Tarefa 2 <strong>
+ - [X] Tarefa 1 
+ - [ ] Tarefa 2 
 
 
 <!--
